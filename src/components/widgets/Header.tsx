@@ -124,7 +124,7 @@ export default component$(() => {
                 href="/#Exchanges"
                 class="btn btn-primary ml-2 py-2.5 px-5.5 md:px-6 font-semibold shadow-none text-sm w-auto"
               >
-                Buy $KOIN
+                Schedule Booking
               </a>
             </span>
           </div>
