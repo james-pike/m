@@ -24,12 +24,13 @@ const IconBulb = qwikSerialized(() => import("../components/icons/IconBulb"));
 export default component$(() => {
   return (
     <>
+    <Hero />
     <div class="home">
       <video muted loop autoplay playsInline>
         <source src="https://assets.codepen.io/6093409/river.mp4" type="video/mp4"/>
       </video>
       <div>
-      <Hero />
+      
       </div>
     </div>
       

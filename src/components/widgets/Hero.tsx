@@ -20,7 +20,7 @@ export default component$(() => {
               </h1>
               <div class="max-w-3xl mx-auto lg:max-w-none">
                 <p class="text-xl mb-6 dark:text-slate-300">
-                  Transform your online presence with our custom web design and development services. We help businesses create stunning, fast, and secure websites.
+                  Transform your online presence with our custom web design and development services. 
 
                 </p>
 
