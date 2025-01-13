@@ -106,20 +106,11 @@ video {
 }
 .home-content {
     position: relative;
-    padding-top: 150px;
+    padding-top: 0px;
     color: #fff;
     text-align: center;
 }
-h1 {
-    font-family: Playfair Display, serif;
-    font-size: clamp(45px, 7vw, 130px);
-    line-height: 1.1;
-}
 
-.home p {
-    font-size: clamp(25px, 4vw, 40px);
-    margin-top: 10px;
-}
 
 .home-content button {
     display: block;
